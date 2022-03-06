@@ -4,6 +4,8 @@ Shortcut with professional links 😁👍
 
 # installing 
 
+apt upgrade && apt update
+
 pkg install git
 
 git clone https://github.com/Termux-dz/Cut-links.git
