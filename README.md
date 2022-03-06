@@ -12,6 +12,6 @@ git clone https://github.com/Termux-dz/Cut-links.git
 
 cd Cut-links
 
-chmod 777 Cut-links
+chmod 777 Cut-links.sh
 
 bash Cut-links.sh
